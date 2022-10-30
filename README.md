@@ -37,3 +37,21 @@ git init
 ```
 git remote add <origin> <address>
 ```
+
+**7、提交代码**
+
+```
+git add .
+git commit -m <describe>
+git push
+```
+
+
+
+
+git commit --amend 修改最后一次提交描述
+git status 查看项目状态
+git rm --cached <file/dir> 将文件从暂存区清除
+git rm <file/dir> 将文件从项目中清除
+git reset HEAD <file/dir> 将文件仓库、暂存区中清除
+git checkout -- <file/dir> 将仓库内的文件覆盖工作区
