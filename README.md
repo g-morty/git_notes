@@ -56,3 +56,4 @@ git rm --cached <file/dir> 将文件从暂存区清除
 git rm <file/dir> 将文件从项目中清除
 git reset HEAD <file/dir> 将文件仓库、暂存区中清除
 git checkout -- <file/dir> 将仓库内的文件覆盖工作区
+我确认已与原单位办理完离职手续+同意入职+姓名
